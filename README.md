@@ -41,7 +41,8 @@ Easily add and remove tasks with a user-friendly interface. Your tasks are saved
 ---
 
 ### 📸 Screenshot
-![To-Do App Screenshot](screenshot.png)
+[App Screenshot](images/screenshot.png)
+
 
 
 
