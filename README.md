@@ -59,3 +59,7 @@ Easily add and remove tasks with a user-friendly interface. Your tasks are saved
 ## 📜 License
 
 This project is open-source and free to use for learning and educational purposes.
+
+## Author
+
+Ramesh Vadigeri
