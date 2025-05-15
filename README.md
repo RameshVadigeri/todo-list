@@ -1,35 +1,60 @@
-# To-Do List App (Python CLI)
+# ✅ To-Do List App (Tkinter GUI)
 
-This is a simple **command-line To-Do List application** written in Python.  
-It helps users manage their tasks by allowing them to add, view, and remove tasks. Each task includes a **priority** and **due date**.
-
----
-
-## Features
-
-- Add tasks with:
-  - Task name
-  - Priority (Low, Medium, High)
-  - Due date (YYYY-MM-DD format)
-- View all tasks saved in the list
-- Remove completed tasks
-- Saves tasks in a JSON file (`tasks.json`) so they are not lost when the program closes
+A simple and beginner-friendly desktop To-Do List application built using **Python** and **Tkinter**.  
+Easily add and remove tasks with a user-friendly interface. Your tasks are saved automatically to a local file (`tasks.txt`).
 
 ---
 
-## How to Run
+## 💻 Features
 
-### Requirements
-- Python 3.x installed
+- Graphical user interface using Tkinter
+- Add new tasks to your to-do list
+- Remove selected tasks from the list
+- Automatically saves tasks to a file
+- Simple, clean, and great for learning Python GUI
 
-### Steps
-1. Open the folder in VS Code or any Python IDE.
-2. Open the terminal in that folder.
-3. Run the app using:
+---
 
-```bash
-python todo.py
+## 🚀 How to Run
 
-# author
+1. Clone the repository or download the `todo_gui.py` file
+2. Make sure you have Python installed (version 3+)
+3. Open terminal or VS Code and run:
 
-Ramesh Vadigeri
+
+---
+
+## 📁 Files
+
+- `todo_gui.py` – Main Python GUI app
+- `tasks.txt` – Stores your tasks (auto-created if not present)
+
+---
+
+## 🧠 Skills Used
+
+- Python 3
+- Tkinter (GUI)
+- File I/O (reading/writing)
+- List management
+
+---
+
+### 📸 Screenshot
+![To-Do App Screenshot](screenshot.png)
+
+
+
+---
+
+## 📌 Great for:
+- Python beginners
+- Your GitHub portfolio
+- Resume projects for college (like MIT!)
+- Practicing GUI development
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and educational purposes.
